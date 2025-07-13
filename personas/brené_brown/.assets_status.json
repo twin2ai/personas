@@ -1,0 +1,21 @@
+{
+  "persona_name": "brené_brown",
+  "last_synthesized_update": "2025-07-13T04:38:06.404397-07:00",
+  "last_assets_generation": "2025-07-13T04:38:06.404397-07:00",
+  "pending_assets": null,
+  "generated_assets": [
+    "platform_prompts",
+    "variation_prompts",
+    "prompts"
+  ],
+  "asset_generation_flags": {
+    "platform_prompts": true,
+    "prompts": true,
+    "variation_prompts": true
+  },
+  "metadata": {
+    "generator": "studio-prompt-pipeline",
+    "model": "gemini-2.5-flash",
+    "version": "1.0"
+  }
+}
