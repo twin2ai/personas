@@ -1,0 +1,21 @@
+{
+  "persona_name": "David Attenborough",
+  "last_synthesized_update": "2025-07-13T03:58:25.200345-07:00",
+  "last_assets_generation": "2025-07-13T03:58:25.200345-07:00",
+  "pending_assets": null,
+  "generated_assets": [
+    "platform_prompts",
+    "variation_prompts",
+    "prompts"
+  ],
+  "asset_generation_flags": {
+    "platform_prompts": true,
+    "prompts": true,
+    "variation_prompts": true
+  },
+  "metadata": {
+    "generator": "studio-prompt-pipeline",
+    "model": "gemini-2.0-flash",
+    "version": "1.0"
+  }
+}
