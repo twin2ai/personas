@@ -1,12 +1,23 @@
 {
   "persona_name": "Michael Bloomberg",
   "last_synthesized_update": "2025-07-14T16:02:19.014018-07:00",
-  "last_assets_generation": "0001-01-01T00:00:00Z",
-  "pending_assets": [],
-  "generated_assets": [],
-  "asset_generation_flags": {},
+  "last_assets_generation": "2025-07-15T21:13:49.928714-07:00",
+  "pending_assets": null,
+  "generated_assets": [
+    "platform_prompts",
+    "variation_prompts",
+    "prompts"
+  ],
+  "asset_generation_flags": {
+    "platform_prompts": true,
+    "prompts": true,
+    "variation_prompts": true
+  },
   "metadata": {
     "created_at": "2025-07-14T16:02:20-07:00",
-    "created_by": "studio"
+    "created_by": "studio",
+    "last_prompt_generation": "2025-07-15T21:13:49-07:00",
+    "prompt_generator": "studio-prompt-pipeline",
+    "prompt_model": "gemini-2.5-flash"
   }
 }
