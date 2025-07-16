@@ -1,12 +1,23 @@
 {
   "persona_name": "Gretchen Whitmer",
   "last_synthesized_update": "2025-07-15T08:27:07.043955-07:00",
-  "last_assets_generation": "0001-01-01T00:00:00Z",
-  "pending_assets": [],
-  "generated_assets": [],
-  "asset_generation_flags": {},
+  "last_assets_generation": "2025-07-15T18:19:24.46573-07:00",
+  "pending_assets": null,
+  "generated_assets": [
+    "platform_prompts",
+    "variation_prompts",
+    "prompts"
+  ],
+  "asset_generation_flags": {
+    "platform_prompts": true,
+    "prompts": true,
+    "variation_prompts": true
+  },
   "metadata": {
     "created_at": "2025-07-15T08:27:08-07:00",
-    "created_by": "studio"
+    "created_by": "studio",
+    "last_prompt_generation": "2025-07-15T18:19:24-07:00",
+    "prompt_generator": "studio-prompt-pipeline",
+    "prompt_model": "gemini-2.5-flash"
   }
 }
